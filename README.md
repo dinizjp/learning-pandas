@@ -2,7 +2,7 @@
 ## Estudos com a biblioteca pandas: Tratamento, Manipulação e Análise 
 
 ## Introdução:
-Projeto fictício para a empresa Cury Company.
+#### Projeto fictício para a empresa Cury Company.
 
 A ideia desse projeto é responder algumas perguntas para a equipe de négocios da Cury Company, uma empresa de delivery na India 
 
