@@ -17,5 +17,5 @@ Usei também a biblioteca re para remodelar uma string "(min)" na coluna Time_ta
 
 
 ## Manipulação de dados 
-#### Aqui o intuito é manipular os dados com o pandas para responder as primeiras perguntas de négocio, dividas em Parte 1, Parte 2 e Parte 3 
+#### O intuito é manipular os dados com o pandas para responder as perguntas criadas pela equipe de négocio, dividas em Parte 1, Parte 2 e Parte 3 
 
